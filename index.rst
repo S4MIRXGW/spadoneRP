@@ -3,19 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Spadone RP Docs's documentation!
+أهلاً وسهلاً بك في سبادون أر بي
 ===========================================
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+نرحب بجميع العرب في اللعب في خادمنا العظيم. خادمنا يسعى لتطوير الرول بلاي العربي وإيصال رسالة للرول بلايرز العرب -
+الرول بلاي الحقيقي.
